@@ -4,6 +4,9 @@ This repository contains code and data for analyzing YouTube statistics. The dat
 ## Data Source
 The dataset used in this analysis is named "Global Youtube Statistics.csv". It contains data collected from various YouTube channels worldwide.
 
+## Link to Dataset
+https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023?resource=download
+
 ## Analysis and Visualizations
 The Python code in this repository performs various analyses and generates visualizations to explore trends and patterns in YouTube statistics. Here are some of the analyses and visualizations performed:
 
